@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageSetup>
+  <Language>CHINA</Language>
+  <MenuButton>
+    <KOR>
+      <Main>메인</Main>
+      <Manual>메뉴얼</Manual>
+      <Device>디바이스</Device>
+      <IOMonitor>입출력 확인</IOMonitor>
+      <Motor>모터</Motor>
+      <DataView>데이터 확인</DataView>
+      <UseSkip>사용자 설정</UseSkip>
+      <Log>로그</Log>
+      <ErrorList>에러 리스트</ErrorList>
+      <User>계정 변경</User>
+    </KOR>
+    <CHINA>
+      <Main>一</Main>
+      <Manual>理</Manual>
+      <Device>參</Device>
+      <IOMonitor>四</IOMonitor>
+      <Motor>吳</Motor>
+      <DataView>育七</DataView>
+      <UseSkip>八究</UseSkip>
+      <Log>什拾</Log>
+      <ErrorList>鎰</ErrorList>
+      <User>朳</User>
+    </CHINA>
+    <ENGLISH>
+      <Main>MAIN</Main>
+      <Manual>MANUAL</Manual>
+      <Device>DEVICE</Device>
+      <IOMonitor>I/O MONITOR</IOMonitor>
+      <Motor>MOTOR</Motor>
+      <DataView>DATA VIEW</DataView>
+      <UseSkip>USE/SKIP</UseSkip>
+      <Log>LOG</Log>
+      <ErrorList>ERROR LIST</ErrorList>
+      <User>USER</User>
+    </ENGLISH>
+  </MenuButton>
+</LanguageSetup>

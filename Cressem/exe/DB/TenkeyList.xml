@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tenkey>
+  <Name0>RESET</Name0>
+  <Name1>Ionizer On/Off</Name1>
+  <Name2>TestTest</Name2>
+  <Name3>fdasf</Name3>
+  <Name4>IONIZER ON/OFF</Name4>
+  <Name5>F-LAMP 1 ON/OFF</Name5>
+  <Name6>F-LAMP 2 ON/OFF</Name6>
+  <Name7>PREALIGNER VACUUM ON/OFF</Name7>
+  <Name8>PREALIGNER VACUUM AIRBLOW ON/OFF</Name8>
+  <Name9>WTR VACUUM ON/OFF</Name9>
+  <Name10>WTR VACUUM AIRBLOW ON/OFF</Name10>
+  <Name11>DOOR LOCK 5, 6 ON/OFF</Name11>
+  <Name12>REJEC M/Z CLAMP FWD/BWD</Name12>
+  <Name13>RING TYPE LOADER M/Z CLAMP FWD/BWD</Name13>
+  <Name14>RING TYPE REJECT M/Z CLAMP FWD/BWD</Name14>
+  <Name15>RING FRAME 1, 2 FIX FWD/BWD</Name15>
+  <Name16>RING FRAME 3 FIX FWD/BWD</Name16>
+  <Name17>
+  </Name17>
+  <Name18>CHUCK  VACUUM 1 ON/OFF</Name18>
+  <Name19>CHUCK  VACUUM 2 ON/OFF</Name19>
+  <Name20>
+  </Name20>
+  <Name21>ELEVATOR UP/DOWN</Name21>
+  <Name22>
+  </Name22>
+  <Name23>
+  </Name23>
+  <Name24>
+  </Name24>
+  <Name25>LEFT SHUTTER OPEN/CLOSE</Name25>
+  <Name26>RIGHT SHUTTER OPEN/CLOSE</Name26>
+  <Name27>LEFT MAGAZINE ALIGNER UP/DOWN</Name27>
+  <Name28>RIGHT MAGAZINE ALIGNER UP/DOWN</Name28>
+  <Name29>
+  </Name29>
+  <Name30>
+  </Name30>
+  <Name31>
+  </Name31>
+  <Name32>
+  </Name32>
+  <Name33>Vacuum Picker Z Home</Name33>
+  <Name34>Vacuum Picker Z Step Move</Name34>
+  <Name35>Vacuum Picker 1 Theta Home</Name35>
+  <Name36>Vacuum Picker 1 Theta Step Move</Name36>
+  <Name37>Vacuum Picker 2 Theta Home</Name37>
+  <Name38>Vacuum Picker 2 Theta Step Move</Name38>
+  <Name39>Vacuum Picker X Home</Name39>
+  <Name40>Vacuum Picker X Step Move</Name40>
+  <Name41>Unloader Picker X Home</Name41>
+  <Name42>Unloader Picker X Step Move</Name42>
+  <Name43>Unloader Picker Z Home</Name43>
+  <Name44>Unloader Picker Z Step Move</Name44>
+  <Name45>Unloader Picker Gripper Home</Name45>
+  <Name46>Unloader Picker Gripper Step Move</Name46>
+  <Name47>Unloader Picker Theta Home</Name47>
+  <Name48>Unloader Picker Theta Step Move</Name48>
+  <Name49>Unloader Picker Y Home</Name49>
+  <Name50>Unloader Picker Y Step Move</Name50>
+  <Name51>S-Tray Transfer Y Home</Name51>
+  <Name52>S-Tray Transfer Y Step Move</Name52>
+  <Name53>Full S-Tray Elevator Home</Name53>
+  <Name54>Full S-Tray Elevator Step Move</Name54>
+  <Name55>Empty S-Tray Elevator Home</Name55>
+  <Name56>Empty S-Tray Elevator Step Move</Name56>
+  <Name57>
+  </Name57>
+  <Name58>
+  </Name58>
+  <Name59>
+  </Name59>
+  <Name60>T-Tray AirBlow On/Off</Name60>
+  <Name61>Bottom Vision AirBlow On/Off</Name61>
+  <Name62>Top Boat AirBlow On/Off</Name62>
+  <Name63>RFID Up/Down</Name63>
+  <Name64>T-Tray Lift Up/Down</Name64>
+  <Name65>T-Tray Shuttle Fwd/Bwd</Name65>
+  <Name66>T-Tray Clamp Up/Down</Name66>
+  <Name67>Loader Picker 1 Vac On/Off</Name67>
+  <Name68>Loader Picker 2 Vac On/Off</Name68>
+  <Name69>Bottom Boat11 Clamp Fwd/Bwd</Name69>
+  <Name70>Bottom Boat12 Clamp Fwd/Bwd</Name70>
+  <Name71>Bottom Boat21 Clamp Fwd/Bwd</Name71>
+  <Name72>ALL Vacuum On/Off</Name72>
+  <Name73>Top Boat11 Lift Up/Down</Name73>
+  <Name74>Top Boat12 Lift Up/Down</Name74>
+  <Name75>Top Boat21 Lift Up/Down</Name75>
+  <Name76>Top Boat22 Lift Up/Down</Name76>
+  <Name77>Top Boat11 Vac On/Off</Name77>
+  <Name78>Top Boat12 Vac On/Off</Name78>
+  <Name79>Top Boat13 Vac On/Off</Name79>
+  <Name80>Top Boat14 Vac On/Off</Name80>
+  <Name81>Top Boat15 Vac On/Off</Name81>
+  <Name82>Top Boat16 Vac On/Off</Name82>
+  <Name83>Top Boat17 Vac On/Off</Name83>
+  <Name84>Top Boat18 Vac On/Off</Name84>
+  <Name85>Top Boat21 Vac On/Off</Name85>
+  <Name86>Top Boat22 Vac On/Off</Name86>
+  <Name87>Top Boat23 Vac On/Off</Name87>
+  <Name88>Top Boat24 Vac On/Off</Name88>
+  <Name89>Top Boat25 Vac On/Off</Name89>
+  <Name90>Top Boat26 Vac On/Off</Name90>
+  <Name91>Top Boat27 Vac On/Off</Name91>
+  <Name92>Top Boat28 Vac On/Off</Name92>
+  <Name93>Verify Table Fwd/Bwd</Name93>
+  <Name94>Verify Boat Fwd/Bwd</Name94>
+  <Name95>Vacuum Picker1 Vac On/Off</Name95>
+  <Name96>Vacuum Picker2 Vac On/Off</Name96>
+  <Name97>Unloader Picker Vac On/Off</Name97>
+  <Name98>
+  </Name98>
+  <Name99>All Home</Name99>
+  <Name100>WTR ORIGIN</Name100>
+  <Name101>베어 웨이퍼 리젝 매거진 매핑</Name101>
+  <Name102>베어 웨이퍼 매거진 매핑</Name102>
+  <Name103>링프레임 리젝 매거진 매핑</Name103>
+  <Name104>링프레임 매거진 매핑</Name104>
+  <Name105>맵 데이터 읽기</Name105>
+  <Name106>
+  </Name106>
+  <Name107>
+  </Name107>
+  <Name108>
+  </Name108>
+  <Name109>
+  </Name109>
+  <Name110>웨이퍼 매거진 매핑</Name110>
+  <Name111>웨이퍼 리젝 매거진 매핑</Name111>
+  <Name112>매거진에서 웨이퍼 꺼내기</Name112>
+  <Name113>프리얼라이너에 웨이퍼 로딩</Name113>
+  <Name114>프리얼라인</Name114>
+  <Name115>프리얼라이너에서 웨이퍼 꺼내기</Name115>
+  <Name116>바코드 읽기</Name116>
+  <Name117>검사영역에 웨이퍼 로딩</Name117>
+  <Name118>비전 검사</Name118>
+  <Name119>검사영역에서 웨이퍼 꺼내기</Name119>
+  <Name120>매거진에 웨이퍼 로딩</Name120>
+  <Name121>
+  </Name121>
+  <Name122>
+  </Name122>
+  <Name123>
+  </Name123>
+  <Name124>
+  </Name124>
+  <Name125>Demo Mode On</Name125>
+  <Name126>Demo Mode Off</Name126>
+  <Name127>
+  </Name127>
+  <Name128>
+  </Name128>
+  <Name129>
+  </Name129>
+  <Name130>프리얼라인 원점 초기화</Name130>
+  <Name131>프리얼라인 사이클</Name131>
+  <Name132>
+  </Name132>
+  <Name133>Unloader Picker Pickup On Top Boat21 Cycle</Name133>
+  <Name134>Unloader Picker Pickup On Top Boat22 Cycle</Name134>
+  <Name135>Unloader Picker Place on Verify Table Cycle</Name135>
+  <Name136>Unloader Picker Pickup on Verify Table Cycle</Name136>
+  <Name137>Unloader Pcker Place on Verify Boat Cycle</Name137>
+  <Name138>Unloader Picker Pickup on Verify Boat Cycle</Name138>
+  <Name139>
+  </Name139>
+  <Name140>
+  </Name140>
+  <Name141>
+  </Name141>
+  <Name142>
+  </Name142>
+  <Name143>
+  </Name143>
+  <Name144>
+  </Name144>
+  <Name145>
+  </Name145>
+  <Name146>
+  </Name146>
+  <Name147>
+  </Name147>
+  <Name148>
+  </Name148>
+  <Name149>
+  </Name149>
+  <Name150>
+  </Name150>
+  <Name151>
+  </Name151>
+  <Name152>
+  </Name152>
+  <Name153>
+  </Name153>
+  <Name154>
+  </Name154>
+  <Name155>
+  </Name155>
+  <Name156>
+  </Name156>
+  <Name157>
+  </Name157>
+  <Name158>
+  </Name158>
+  <Name159>
+  </Name159>
+  <Name160>
+  </Name160>
+  <Name161>
+  </Name161>
+  <Name162>
+  </Name162>
+  <Name163>
+  </Name163>
+  <Name164>
+  </Name164>
+  <Name165>
+  </Name165>
+  <Name166>
+  </Name166>
+  <Name167>
+  </Name167>
+  <Name168>
+  </Name168>
+  <Name169>
+  </Name169>
+  <Name170>
+  </Name170>
+  <Name171>
+  </Name171>
+  <Name172>
+  </Name172>
+  <Name173>
+  </Name173>
+  <Name174>
+  </Name174>
+  <Name175>
+  </Name175>
+  <Name176>
+  </Name176>
+  <Name177>
+  </Name177>
+  <Name178>
+  </Name178>
+  <Name179>
+  </Name179>
+  <Name180>
+  </Name180>
+  <Name181>
+  </Name181>
+  <Name182>
+  </Name182>
+  <Name183>
+  </Name183>
+  <Name184>
+  </Name184>
+  <Name185>
+  </Name185>
+  <Name186>
+  </Name186>
+  <Name187>
+  </Name187>
+  <Name188>
+  </Name188>
+  <Name189>
+  </Name189>
+  <Name190>
+  </Name190>
+  <Name191>
+  </Name191>
+  <Name192>
+  </Name192>
+  <Name193>
+  </Name193>
+  <Name194>
+  </Name194>
+  <Name195>
+  </Name195>
+  <Name196>
+  </Name196>
+  <Name197>
+  </Name197>
+  <Name198>
+  </Name198>
+  <Name199>
+  </Name199>
+</Tenkey>
