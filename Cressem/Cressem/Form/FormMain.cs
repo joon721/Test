@@ -60,6 +60,7 @@ namespace Cressem
         {
             mainLanguage = setupXml.GetNodeVal("LanguageSetup/Language");
 
+            #region Menu Button
             string textDefineNode = "LanguageSetup/MenuButton/" + mainLanguage;
             buttonMain.Text = setupXml.GetNodeVal(textDefineNode + "/Main");
             buttonManual.Text = setupXml.GetNodeVal(textDefineNode + "/Manual");
@@ -71,6 +72,10 @@ namespace Cressem
             buttonLog.Text = setupXml.GetNodeVal(textDefineNode + "/Log");
             buttonErrorList.Text = setupXml.GetNodeVal(textDefineNode + "/ErrorList");
             buttonUser.Text = setupXml.GetNodeVal(textDefineNode + "/User");
+            #endregion
+
+            #region Manual 화면
+            #endregion
         }
         #endregion
 
